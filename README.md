@@ -1,3 +1,3 @@
 # hello
 My first repository on github
-random stuff
+and some random stuff
